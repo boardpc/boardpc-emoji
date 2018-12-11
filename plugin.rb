@@ -128,6 +128,6 @@ register_emoji "krzesloklawa", "/plugins/boardpc-emoji/images/krzesloklawa.gif"
 register_emoji "majl", "/plugins/boardpc-emoji/images/majl.gif"
 register_emoji "motur", "/plugins/boardpc-emoji/images/motur.gif"
 register_emoji "ojty", "/plugins/boardpc-emoji/images/ojty.gif"
-register_emoji "suzuki", "/plugins/boardpc-emoji/images/suzuki.gif"
+register_emoji "suzuki2", "/plugins/boardpc-emoji/images/suzuki.gif"
 register_emoji "ufo1", "/plugins/boardpc-emoji/images/ufo1.gif"
 
