@@ -131,4 +131,4 @@ register_emoji "ojty", "/plugins/boardpc-emoji/images/ojty.gif"
 register_emoji "suzuki2", "/plugins/boardpc-emoji/images/suzuki2.gif"
 register_emoji "ufo1", "/plugins/boardpc-emoji/images/ufo1.gif"
 register_emoji "bpclogo", "/plugins/boardpc-emoji/images/bpclogo.png"
-
+register_emoji "fraz", "/plugins/boardpc-emoji/images/fraz.png"
