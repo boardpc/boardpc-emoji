@@ -1,6 +1,6 @@
 # name: boardpc-emoji
 # about: Boilerplate plugin to add custom emojis
-# version: 0.1
+# version: 0.2
 # authors: Régis Hanol (zogstrip) modified for boardpc use Neuromancer_Theta
 # url: https://gitlab.com/boardpc-public/boardpc-emoji
 
