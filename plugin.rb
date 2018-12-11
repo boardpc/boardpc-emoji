@@ -133,3 +133,5 @@ register_emoji "ufo1", "/plugins/boardpc-emoji/images/ufo1.gif"
 register_emoji "bpclogo", "/plugins/boardpc-emoji/images/bpclogo.png"
 register_emoji "fraz", "/plugins/boardpc-emoji/images/fraz.png"
 register_emoji "suzuki", "/plugins/boardpc-emoji/images/suzuki.png"
+register_emoji "warb", "/plugins/boardpc-emoji/images/war_b.png"
+
