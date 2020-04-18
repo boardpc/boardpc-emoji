@@ -1,4 +1,4 @@
 plugins:
   emoji_enabled:
-    client: true
     default: true
+    client: true
