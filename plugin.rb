@@ -196,3 +196,4 @@ after_initialize do
 	register_emoji "sadkek", "/plugins/boardpc-emoji/images/sadkek.png"
 	register_emoji "wesmart", "/plugins/boardpc-emoji/images/wesmart.gif"
 	register_emoji "wons", "/plugins/boardpc-emoji/images/wons.png"
+end
